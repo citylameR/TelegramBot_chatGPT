@@ -18,7 +18,6 @@ To install the bot, simply clone this repository and install the necessary packa
 git clone https://github.com/citylameR/TelegramBot_chatGPT.git
 cd TelegramBot_chatGPT
 pip install -r requirements.txt
-
 ```
 
 In config.py change all tokens and passwords to your own
@@ -57,7 +56,6 @@ If you want to contribute to the project, feel free to open a request for a fix 
 git clone https://github.com/citylameR/TelegramBot_chatGPT.git
 cd TelegramBot_chatGPT
 pip install -r requirements.txt
-
 ```
 
 В файлах config.py поменяйте все токены и пароли на свои
