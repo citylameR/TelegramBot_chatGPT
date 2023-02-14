@@ -49,7 +49,6 @@ If you want to contribute to the project, feel free to open a request for a fix 
 * SQLAlchemy
 * Openai
 * Aiogram
-* OpenAI GPT-3
 
 ## Установка
 
