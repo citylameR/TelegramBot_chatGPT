@@ -15,7 +15,7 @@ PAYMENTS_TOKEN = str(os.getenv('PAYMENTS_TOKEN'))
 
 POSTGRES_URI = f'postgresql://{PGUSER}:{PGPASSWORD}@{ip}/{DATABASE}'
 admins = [
-    791108425
+    "Your telegram id"
 ]
 
 
