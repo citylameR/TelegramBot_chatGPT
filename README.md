@@ -9,7 +9,6 @@ This bot requires Python 3 and the following packages:
 * SQLAlchemy
 * Openai
 * Aiogram
-# OpenAI GPT-3
 
 ## Installation.
 
